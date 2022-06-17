@@ -1,6 +1,6 @@
 # Github_Apis_Collection
 All Github Api at one Place 
-[Original Link](https://docs.github.com/en/rest/guides/getting-started-with-the-rest-api)
+[Original Link](https://api.github.com/)
 
 ### current_user_url
 ```
